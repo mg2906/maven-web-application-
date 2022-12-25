@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Walamart Release</name>
-	      <url>http://15.206.28.132:8081/repository/Walamart-Release/</url>
+	      <url>http://13.232.69.2:8081/repository/Walamart-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Walamart Snapshot</name>
-	      <url>http://15.206.28.132:8081/repository/Walamart-snapshot//</url>
+	      <url>http://13.232.69.2:8081/repository/Walamart-snapshot//</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
