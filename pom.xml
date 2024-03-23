@@ -95,19 +95,17 @@
 	
 	<distributionManagement>
 	
-	    <repository>
-	      <id>nexus</id>
-
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.45.198:8081/repository/mg-release/</url>
-
-	    </repository>
+          <repository>
+	    <id>nexus</id>
+            <name>Mithun Technologies Releases Nexus Repository</name>
+	    <url>http://172.31.1.117:8081/repository/maven-release/</url>
+          </repository>
 	    
-	    <snapshotRepository>
-	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.45.198:8081/repository/mg-snapshot/</url>
-	    </snapshotRepository>
+	  <snapshotRepository>
+	    <id>nexus</id>
+	    <name>Mithun Technologies Snapshot Nexus Repository </name>
+	    <url>http://172.31.1.117:8081/repository/maven-snapshot/</url>
+	  </snapshotRepository>
 	    
 	</distributionManagement>
 	
